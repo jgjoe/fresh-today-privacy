@@ -1,8 +1,8 @@
 # 오늘도 신선 — 개인정보처리방침
 
-**원스토어에 배포한 [오늘도 신선](https://github.com/crushonyou2/Fridge-D-Day) 앱의 개인정보처리방침 공개 페이지**
+**원스토어에 배포한 [오늘도 신선](https://github.com/jgjoe/Fridge-D-Day) 앱의 개인정보처리방침 공개 페이지**
 
-[![Pages](https://img.shields.io/badge/GitHub%20Pages-published-success)](https://crushonyou2.github.io/fresh-today-privacy/privacy_policy.html)
+[![Pages](https://img.shields.io/badge/GitHub%20Pages-published-success)](https://jgjoe.github.io/fresh-today-privacy/privacy_policy.html)
 [![App](https://img.shields.io/badge/앱-오늘도%20신선-3DDC84?logo=android&logoColor=white)](https://m.onestore.co.kr/v2/ko-kr/app/0001003331)
 
 앱 스토어 등록에는 **상시 접근 가능한 개인정보처리방침 URL이 필요합니다.**
@@ -19,15 +19,15 @@
 - 백업은 사용자가 고른 위치에 JSON으로 저장되고, 앱을 삭제하면 데이터도 함께 삭제됩니다
 
 > 릴리스 APK에 `INTERNET` 권한 자체가 없다는 점은 앱 저장소
-> [Fridge-D-Day](https://github.com/crushonyou2/Fridge-D-Day)에 검증 기록과 함께 있습니다.
+> [Fridge-D-Day](https://github.com/jgjoe/Fridge-D-Day)에 검증 기록과 함께 있습니다.
 
 ## 링크
 
-- 방침 원문: https://crushonyou2.github.io/fresh-today-privacy/privacy_policy.html
-- 앱 저장소: https://github.com/crushonyou2/Fridge-D-Day
+- 방침 원문: https://jgjoe.github.io/fresh-today-privacy/privacy_policy.html
+- 앱 저장소: https://github.com/jgjoe/Fridge-D-Day
 - 원스토어: https://m.onestore.co.kr/v2/ko-kr/app/0001003331
 
 ## 문의
 
 앱에 대한 문의는 **방침 문서 하단에 적힌 개발자 이메일**로 연락 주세요.
-그 외 문의는 [@crushonyou2](https://github.com/crushonyou2).
+그 외 문의는 [@jgjoe](https://github.com/jgjoe).
